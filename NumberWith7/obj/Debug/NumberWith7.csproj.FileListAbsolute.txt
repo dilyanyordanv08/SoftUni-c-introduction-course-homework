@@ -1,0 +1,5 @@
+C:\Users\dilyan\Documents\Visual Studio 2015\Projects\Loops\NumberWith7\bin\Debug\NumberWith7.exe.config
+C:\Users\dilyan\Documents\Visual Studio 2015\Projects\Loops\NumberWith7\bin\Debug\NumberWith7.exe
+C:\Users\dilyan\Documents\Visual Studio 2015\Projects\Loops\NumberWith7\bin\Debug\NumberWith7.pdb
+C:\Users\dilyan\Documents\Visual Studio 2015\Projects\Loops\NumberWith7\obj\Debug\NumberWith7.exe
+C:\Users\dilyan\Documents\Visual Studio 2015\Projects\Loops\NumberWith7\obj\Debug\NumberWith7.pdb

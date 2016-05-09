@@ -1,0 +1,5 @@
+C:\Users\dilyan\Documents\Visual Studio 2015\Projects\Loops\LatinLetters\bin\Debug\LatinLetters.exe.config
+C:\Users\dilyan\Documents\Visual Studio 2015\Projects\Loops\LatinLetters\bin\Debug\LatinLetters.exe
+C:\Users\dilyan\Documents\Visual Studio 2015\Projects\Loops\LatinLetters\bin\Debug\LatinLetters.pdb
+C:\Users\dilyan\Documents\Visual Studio 2015\Projects\Loops\LatinLetters\obj\Debug\LatinLetters.exe
+C:\Users\dilyan\Documents\Visual Studio 2015\Projects\Loops\LatinLetters\obj\Debug\LatinLetters.pdb

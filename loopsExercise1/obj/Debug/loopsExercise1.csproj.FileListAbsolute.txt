@@ -1,0 +1,6 @@
+C:\Users\dilyan\Documents\Visual Studio 2015\Projects\Loops\loopsExercise1\bin\Debug\loopsExercise1.exe.config
+C:\Users\dilyan\Documents\Visual Studio 2015\Projects\Loops\loopsExercise1\bin\Debug\loopsExercise1.exe
+C:\Users\dilyan\Documents\Visual Studio 2015\Projects\Loops\loopsExercise1\bin\Debug\loopsExercise1.pdb
+C:\Users\dilyan\Documents\Visual Studio 2015\Projects\Loops\loopsExercise1\obj\Debug\loopsExercise1.csprojResolveAssemblyReference.cache
+C:\Users\dilyan\Documents\Visual Studio 2015\Projects\Loops\loopsExercise1\obj\Debug\loopsExercise1.exe
+C:\Users\dilyan\Documents\Visual Studio 2015\Projects\Loops\loopsExercise1\obj\Debug\loopsExercise1.pdb
