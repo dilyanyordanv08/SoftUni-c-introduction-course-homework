@@ -1,0 +1,5 @@
+C:\Users\dilyan\Documents\Visual Studio 2015\Projects\ComplicatedLoops\CheckPrime\bin\Debug\CheckPrime.exe.config
+C:\Users\dilyan\Documents\Visual Studio 2015\Projects\ComplicatedLoops\CheckPrime\bin\Debug\CheckPrime.exe
+C:\Users\dilyan\Documents\Visual Studio 2015\Projects\ComplicatedLoops\CheckPrime\bin\Debug\CheckPrime.pdb
+C:\Users\dilyan\Documents\Visual Studio 2015\Projects\ComplicatedLoops\CheckPrime\obj\Debug\CheckPrime.exe
+C:\Users\dilyan\Documents\Visual Studio 2015\Projects\ComplicatedLoops\CheckPrime\obj\Debug\CheckPrime.pdb
