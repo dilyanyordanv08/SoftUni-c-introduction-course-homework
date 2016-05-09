@@ -1,0 +1,5 @@
+C:\Users\dilyan\Documents\Visual Studio 2015\Projects\ComplicatedLoops\NumberPyramid\bin\Debug\NumberPyramid.exe.config
+C:\Users\dilyan\Documents\Visual Studio 2015\Projects\ComplicatedLoops\NumberPyramid\bin\Debug\NumberPyramid.exe
+C:\Users\dilyan\Documents\Visual Studio 2015\Projects\ComplicatedLoops\NumberPyramid\bin\Debug\NumberPyramid.pdb
+C:\Users\dilyan\Documents\Visual Studio 2015\Projects\ComplicatedLoops\NumberPyramid\obj\Debug\NumberPyramid.exe
+C:\Users\dilyan\Documents\Visual Studio 2015\Projects\ComplicatedLoops\NumberPyramid\obj\Debug\NumberPyramid.pdb

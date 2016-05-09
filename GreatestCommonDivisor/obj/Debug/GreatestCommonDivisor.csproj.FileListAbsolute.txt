@@ -1,0 +1,5 @@
+C:\Users\dilyan\Documents\Visual Studio 2015\Projects\ComplicatedLoops\GreatestCommonDivisor\bin\Debug\GreatestCommonDivisor.exe.config
+C:\Users\dilyan\Documents\Visual Studio 2015\Projects\ComplicatedLoops\GreatestCommonDivisor\bin\Debug\GreatestCommonDivisor.exe
+C:\Users\dilyan\Documents\Visual Studio 2015\Projects\ComplicatedLoops\GreatestCommonDivisor\bin\Debug\GreatestCommonDivisor.pdb
+C:\Users\dilyan\Documents\Visual Studio 2015\Projects\ComplicatedLoops\GreatestCommonDivisor\obj\Debug\GreatestCommonDivisor.exe
+C:\Users\dilyan\Documents\Visual Studio 2015\Projects\ComplicatedLoops\GreatestCommonDivisor\obj\Debug\GreatestCommonDivisor.pdb

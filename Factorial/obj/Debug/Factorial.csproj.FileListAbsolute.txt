@@ -1,0 +1,6 @@
+C:\Users\dilyan\Documents\Visual Studio 2015\Projects\ComplicatedLoops\Factorial\bin\Debug\Factorial.exe.config
+C:\Users\dilyan\Documents\Visual Studio 2015\Projects\ComplicatedLoops\Factorial\bin\Debug\Factorial.exe
+C:\Users\dilyan\Documents\Visual Studio 2015\Projects\ComplicatedLoops\Factorial\bin\Debug\Factorial.pdb
+C:\Users\dilyan\Documents\Visual Studio 2015\Projects\ComplicatedLoops\Factorial\obj\Debug\Factorial.exe
+C:\Users\dilyan\Documents\Visual Studio 2015\Projects\ComplicatedLoops\Factorial\obj\Debug\Factorial.pdb
+C:\Users\dilyan\Documents\Visual Studio 2015\Projects\ComplicatedLoops\Factorial\obj\Debug\Factorial.csprojResolveAssemblyReference.cache
