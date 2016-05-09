@@ -1,0 +1,6 @@
+C:\Users\dilyan\Documents\Visual Studio 2015\Projects\DrawingFiguresWithLoops\SquareFrame\bin\Debug\SquareFrame.exe.config
+C:\Users\dilyan\Documents\Visual Studio 2015\Projects\DrawingFiguresWithLoops\SquareFrame\bin\Debug\SquareFrame.exe
+C:\Users\dilyan\Documents\Visual Studio 2015\Projects\DrawingFiguresWithLoops\SquareFrame\bin\Debug\SquareFrame.pdb
+C:\Users\dilyan\Documents\Visual Studio 2015\Projects\DrawingFiguresWithLoops\SquareFrame\obj\Debug\SquareFrame.exe
+C:\Users\dilyan\Documents\Visual Studio 2015\Projects\DrawingFiguresWithLoops\SquareFrame\obj\Debug\SquareFrame.pdb
+C:\Users\dilyan\Documents\Visual Studio 2015\Projects\DrawingFiguresWithLoops\SquareFrame\obj\Debug\SquareFrame.csprojResolveAssemblyReference.cache

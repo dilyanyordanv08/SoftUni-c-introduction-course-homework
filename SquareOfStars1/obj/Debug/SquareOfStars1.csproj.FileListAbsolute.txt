@@ -1,0 +1,5 @@
+C:\Users\dilyan\Documents\Visual Studio 2015\Projects\DrawingFiguresWithLoops\SquareOfStars1\bin\Debug\SquareOfStars1.exe.config
+C:\Users\dilyan\Documents\Visual Studio 2015\Projects\DrawingFiguresWithLoops\SquareOfStars1\bin\Debug\SquareOfStars1.exe
+C:\Users\dilyan\Documents\Visual Studio 2015\Projects\DrawingFiguresWithLoops\SquareOfStars1\bin\Debug\SquareOfStars1.pdb
+C:\Users\dilyan\Documents\Visual Studio 2015\Projects\DrawingFiguresWithLoops\SquareOfStars1\obj\Debug\SquareOfStars1.exe
+C:\Users\dilyan\Documents\Visual Studio 2015\Projects\DrawingFiguresWithLoops\SquareOfStars1\obj\Debug\SquareOfStars1.pdb
