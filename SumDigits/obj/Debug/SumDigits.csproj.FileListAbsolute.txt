@@ -1,0 +1,5 @@
+C:\Users\dilyan\Documents\Visual Studio 2015\Projects\ComplicatedLoops\SumDigits\bin\Debug\SumDigits.exe.config
+C:\Users\dilyan\Documents\Visual Studio 2015\Projects\ComplicatedLoops\SumDigits\bin\Debug\SumDigits.exe
+C:\Users\dilyan\Documents\Visual Studio 2015\Projects\ComplicatedLoops\SumDigits\bin\Debug\SumDigits.pdb
+C:\Users\dilyan\Documents\Visual Studio 2015\Projects\ComplicatedLoops\SumDigits\obj\Debug\SumDigits.exe
+C:\Users\dilyan\Documents\Visual Studio 2015\Projects\ComplicatedLoops\SumDigits\obj\Debug\SumDigits.pdb
